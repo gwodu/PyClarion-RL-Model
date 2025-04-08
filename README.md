@@ -107,6 +107,6 @@ If referencing this project or codebase, please cite:
 
 ## ✉️ Contact
 
-For questions or collaborations, feel free to reach out via GitHub or academic email.
+For questions or collaborations, feel free to reach out via GitHub or @ge.wodu@gmail.com.
 
 ---
